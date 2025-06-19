@@ -17,4 +17,4 @@ Compares total revenue from customers with children vs. without children.
 Analyzes total revenue distribution by gender (Male vs Female).
 
 
-![Customer-Performance](image_url)
+![Customer-Performance](https://github.com/anupratheepa/Customer-Performance/blob/main/Image.png)
