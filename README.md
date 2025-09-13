@@ -3,13 +3,16 @@
 This Power BI dashboard provides actionable insights into customer behavior, product performance, and purchasing trends, enabling data-driven decision-making. The analysis leverages customer demographics, geography, and sales data to uncover patterns that drive revenue and profitability.
 
 **🔑 Key Performance Indicators (KPIs)**
+
 1. Total Revenue: $307M
 2. Total Sales: $29M
 3. Profit: $123M
 4. Revenue per Customer: $1.59K
 5. Revenue (With Children): $217M
 6. Revenue (Without Children): $90M
-**📈 Key Performance Metrics (KPMs)**
+
+   **📈 Key Performance Metrics (KPMs)**
+   
 1. Revenue by Age Category: 41–50 age group contributes 74% of revenue, surpassing the average revenue line of $61.42M.
 2. Customer Profile Segmentation: Loyal Customers, Periodic Customers, Very Low Purchase (VLP) Customers
 3. Revenue Contribution by Country
